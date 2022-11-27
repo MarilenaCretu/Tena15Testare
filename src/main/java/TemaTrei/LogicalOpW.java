@@ -1,4 +1,4 @@
-package While;
+package TemaTrei;
 
 import java.util.Scanner;
 

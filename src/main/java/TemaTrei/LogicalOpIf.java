@@ -1,4 +1,6 @@
-public class LogicalOp {
+package TemaTrei;
+
+public class LogicalOpIf {
     //Tema 11
     //exercitiul 3
     public int checkBiggerNumber(int first, int second) {

@@ -1,8 +1,8 @@
-package For;
+package TemaTrei;
 
 import java.util.Scanner;
 
-public class LogicalOp {
+public class LogicalOpFor {
     int firstnumber;
     int targetPlusNumber = 100;
     int targetMinusNumber = -100;

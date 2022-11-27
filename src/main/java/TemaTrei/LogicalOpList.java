@@ -1,8 +1,8 @@
-package TemaDoi;
+package TemaTrei;
 
 import java.util.List;
 
-public class LogicalOp {
+public class LogicalOpList {
     //Exercitiul 1
     public void printListInt(List<Integer> list) {
         for (int i = 0; i < list.size(); i++) {

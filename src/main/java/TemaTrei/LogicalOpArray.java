@@ -2,7 +2,7 @@ package TemaTrei;
 
 import java.util.Arrays;
 
-public class LogicalOp {
+public class LogicalOpArray {
 
     //Exerecitiul 2
     public int[] getArray(int[] myArray) {

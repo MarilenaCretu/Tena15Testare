@@ -1,6 +1,6 @@
-package TemaPatru;
+package TemaTrei;
 
-public class LogicalOp {
+public class LogicalOpArr {
 
     //Exercitiul 1
     public void printArrayValue(int[] myArray) {
