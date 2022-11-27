@@ -30,7 +30,7 @@ public class Main {
                     meniu();
                     break;
                 } else {
-                    System.out.println("Wrong Username, Password or Account Number. Please try again.");
+                    System.out.println("Wrong Username or Password. Please try again.");
                 }
             } else {
                 System.out.println("3 incorrect enteries. EXIT!");
