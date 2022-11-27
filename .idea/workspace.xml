@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1942f59-a273-40d3-bd17-62aa965c8509" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TemaTrei/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TemaTrei/LogicalOpArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TemaTrei/LogicalOpArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TemaTrei/LogicalOpFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TemaTrei/LogicalOpIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TemaTrei/LogicalOpList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TemaTrei/LogicalOpW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TemaTrei/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="d1942f59-a273-40d3-bd17-62aa965c8509" name="Changes" comment="Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669542423746</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1669585349235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669585349235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
