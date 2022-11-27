@@ -22,7 +22,7 @@ public class Read {
                 System.out.println("The value [" + scan.nextLine() + "] is not a numeric value.\nPlease try again!");
             }
         }
-        System.out.println("cc"+number+"valid");
+        System.out.println("Your number \""+number+"\" is valid.");
         return number;
     }
 
